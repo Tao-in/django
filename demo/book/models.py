@@ -1,6 +1,7 @@
 
 
 from django.db import models
+print('hello')
 
 # 定义图书模型类 BookInfo
 class BookInfo(models.Model):
